@@ -1,0 +1,1 @@
+gcc -o print_usernames -Wall -Wextra -Werror -g print_usernames.c
